@@ -6,7 +6,7 @@
 using namespace std;
 
 void DataToCMDfromFile(string wayfort);//Функция для вывода файла в консоль
-void CheckTheHash(string wayfort);//Проверка хэша функции
+void CheckTheHash(string wayfort);//Проверка хэша функции (боже, какой же у меня кривой код)
 void WriteToBin(string wayfort, string wayforb);//Запись данных в бинарный файл из текстового
 void ReadFromBin(string wayforb);//Чтение данных из бинарного файла
 
